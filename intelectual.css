@@ -191,3 +191,276 @@ i {
 
 /*fin nav barr*/
 
+/*header*/
+#header{
+	min-height: 800px;
+	background: white url(deportegente.jpg) no-repeat center center fixed;
+	background-size: cover;
+	padding-top: 40px;
+}
+
+#nav{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#nav img{
+	width: 70px;
+}
+
+
+#header h1{
+	font-size: 4em;
+	color: white;	;
+	font-family: 'Righteous', cursive;
+	text-align: center;
+	margin-top: 150px;
+}
+.titulodescripcion h2{
+	font-size: 2em;
+	color: white;
+	text-align: center;
+	margin-bottom: 150px;
+	font-weight: 100;
+	background-color: ;
+	margin-top: 15px;
+ 
+}
+
+/*el segundo titulo este rario*/
+
+.info{
+	color: ;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.1);
+	padding-top: 25px;
+}
+.formaciolaboral¨{
+
+
+}
+
+.formaciolaboral img{
+ border-radius: 800px;
+ width: 1000px;
+
+}
+
+/*la galeria o lo que se aesta rara mnkoifdsg*/
+
+#galeria{
+    display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+
+#black{
+    background:  rgba(0, 0, 0, 0.7);
+    margin-top: 20px; 
+
+}
+#black h2{
+	color: white;
+	text-align:center; 
+	padding-top: 90px;
+	font-size: 5em;
+}
+
+.cuida{
+    text-align: center;
+    padding: 100px 0px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+.cuida img{
+    border-radius: 800px;
+    width: 450px;
+    margin-top: 10px;
+}
+
+
+.cuida h1{
+    color: #549895;
+    font-size: 4em;
+    font-weight: 300;
+}
+
+.cuida p{
+    font-style: italic;
+    color: white;
+    font-size:3em;
+}
+
+.cuida strong{
+    font-weight: 300;
+    text-decoration: underline;
+    text-decoration-color: #F6BD60;
+    text-decoration-skip: 5px;
+}
+.textoraro p{
+
+	font-size: 3em;
+	color: white;
+	padding-bottom: 20px;
+}
+
+/*la parte esta de abajo*/
+.ecotext {
+    padding-left: 60px;
+    padding-right: 30px;
+    display: inline-block;
+    width: 38%;
+    border: 15px solid white ;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.ecotext p{
+	font-size: 1.5em;
+
+
+}
+
+.ecotext h2{
+
+
+}
+.ecotext li{
+	font-size: 1.55em;
+}
+
+.ecoimg {
+    padding-right: 60px;
+    padding-left: 15px;
+    display: inline-block;
+    width: 50%;
+    float: right; 
+}
+
+.ecoimg img{
+	width: 850px;
+	margin-top: 150px;
+	border-radius: 10%;
+	border: 10px solid #040404;
+	background: white;
+}
+
+.soc{
+
+	margin-top: 50px;
+}
+
+.socimg{
+	background-color: ;
+	display: flex;
+}
+
+.horarios{
+	background-color: r;
+	margin-left: 50px;
+	border: 15px solid white ;
+	padding: 15px;
+}
+.horarios p{
+	padding-top: 50px;
+}
+
+.ocupacionaltitlulo{
+	text-align: center;
+	background-color: ;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.ocupacionaltitlulo h1{
+	font-size: 5em;
+	text-decoration: ;
+
+}
+
+
+/*footer*/
+#footer{
+  border-top: 3px solid white;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+.container3{
+  display: flex;
+  justify-content: center;
+}
+
+.sec{
+  width: 333px;
+  height: 250px;
+  margin: 60px 0px;
+  padding: 0px;
+}
+
+.iconos{
+  display: flex;
+  justify-content: space-between;
+  width: 250px;
+  margin: 10px auto;
+  padding-top: 0px;
+}
+
+
+
+.margin{
+  border-left: 2px solid white;
+  border-right: 2px solid white;
+}
+
+.sec i{
+  color: white;
+  background: #3c3b3b;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 2em;
+  margin-bottom: 150px;
+}
+
+.sec h1{
+  font-size: 1.5em;
+} 
+
+.sec li{
+  list-style: square;
+  padding-top: 10px;
+}
+
+.sec p{
+  font-size: 0.7em;
+  margin: 0px auto;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.sec a{
+  color: white;
+  text-decoration: none;
+  transition: all 0.5s;
+  padding: 10px 10px;
+  padding-bottom: 10px;
+  height: 20px;
+  border-radius: 5px;
+  text-align: center;
+  margin-right: 50px;
+  border: 2px solid white;
+}
+
+
+
+.flex2{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 40px;
+}
+
+.sec img{
+  width: 250px;
+}
